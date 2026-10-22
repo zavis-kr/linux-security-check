@@ -1,7 +1,7 @@
 # linux-security-check
-취약점 진단 과제 01 ~ 08
+22501013 - 박혜성 취약점 진단 실무 과제 
 
-01.Default 계정 삭제부터 08 shadow파일 권한 설정까지
+01.Default 계정 삭제부터 08.shadow파일 권한 설정까지 취약점 진단 스크립트 작성 
 
 ## 실행 환경
 -macOS의 UTM 가상머신
