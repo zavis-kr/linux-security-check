@@ -1,7 +1,0 @@
-
-=== 04.GROUP file Permission check START ===
--rw-r--r--. 1 root root 855  9월 21 11:09 /etc/group
- 
----------------[Result]---------------
-group check Result : GOOD
----------------[END]---------------
