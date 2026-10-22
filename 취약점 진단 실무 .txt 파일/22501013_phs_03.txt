@@ -1,0 +1,5 @@
+
+====03.Passwd File Permission Check start====
+-rw-r--r--. 1 root root 2072  8월 28 03:30 /etc/passwd
+Passwd file permission check Result : GOOD
+----------[END]----------

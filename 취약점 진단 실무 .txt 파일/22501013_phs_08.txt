@@ -1,0 +1,7 @@
+
+========== 08.Shadow check START ==========
+----------. 1 root root 1091  8월 28 03:30 /etc/shadow
+---------------[Result]-------------
+shadow Check Result : GOOD
+---------------[END]---------------
+ 

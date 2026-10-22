@@ -1,0 +1,10 @@
+
+=======05.Passwd rule check START =======
+ 
+======= [ Status ] =======
+PASS_MIN_LEN    9
+PASS_MAX_DAYS	60
+PASS_MIN_DAYS	2
+---------------[Result]---------------
+passwd rule check result : GOOD
+--------------[END]--------------
